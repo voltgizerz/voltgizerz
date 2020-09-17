@@ -1,14 +1,13 @@
 ### Hi there 👋
-- 👯 ![](https://visitor-badge.glitch.me/badge?page_id=glgapr.glgapr)
 - 🌱 I’m currently learning Python, Java, JavaScript
 - ⚡ Fun fact: I love Logic, Machine Learning and Music Listening
 
 ### Connect with me:
-![](https://visitor-badge.glitch.me/badge?page_id=glgapr.glgapr)
 [<img align="left" alt="voltgizerz.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="felix_fernand0 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="felix-fernando-wijaya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="felix_fernandoo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+![](https://visitor-badge.glitch.me/badge?page_id=glgapr.glgapr)
 
 <br />
 
@@ -20,9 +19,11 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 
 <br />
-
 ---
 <img align="left" alt="Volgizerz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=voltgizerz&show_icons=true&hide_border=true" />
+
+<br />
+---
 <img align="left" alt="Volgizerz's Lang Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voltgizerz&layout=compact" />
 
 [website]: https://voltgizerz.github.io/
