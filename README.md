@@ -22,6 +22,10 @@
 ---
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=voltgizerz&show_icons=true&hide_border=true" />
 
+<br />
+
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voltgizerz)](https://github.com/voltgizerz/github-readme-stats)
 
 [website]: https://voltgizerz.github.io/
 [twitter]: https://twitter.com/felix_fernand0
