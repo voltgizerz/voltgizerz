@@ -1,4 +1,4 @@
-### Hi there 👋
+###  ![](https://visitor-badge.glitch.me/badge?page_id=glgapr.glgapr) Hi there 👋
 - 🌱 I’m currently learning Python, Java, JavaScript
 - ⚡ Fun fact: I love Logic, Machine Learning and Music Listening
 
@@ -24,8 +24,18 @@
 
 <br />
 
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voltgizerz)](https://github.com/voltgizerz/github-readme-stats)
+<details>
+  <summary>Top languages</summary>
+  <br>
+  <img align="left" alt="Vatana's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voltgizerz&theme=dracula" /> <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+</details>
 
 [website]: https://voltgizerz.github.io/
 [twitter]: https://twitter.com/felix_fernand0
