@@ -22,10 +22,6 @@
 
 ---
 <img align="left" alt="Volgizerz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=voltgizerz&show_icons=true&hide_border=true" />
-
-<br />
-
----
 <img align="left" alt="Volgizerz's Lang Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voltgizerz&layout=compact" />
 
 [website]: https://voltgizerz.github.io/
