@@ -24,10 +24,11 @@
 
 <br />
 
+---
 <details>
   <summary>Top languages</summary>
   <br>
-  <img align="left" alt="Vatana's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voltgizerz&theme=dracula" /> <br>
+  <img align="left" alt="Vatana's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voltgizerz&layout=compact" /> <br>
   <br>
   <br>
   <br>
