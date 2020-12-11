@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Python, Java, JavaScript
+- 🌱 I’m currently learning Everything 😂
 - ⚡ Fun fact: I love Logic, Machine Learning and Music Listening
 
 ### Connect with me:
