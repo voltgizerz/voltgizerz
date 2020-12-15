@@ -10,7 +10,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=glgapr.glgapr)
 
 <br />
-
 ---
 <img align="left" alt="Volgizerz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=voltgizerz&show_icons=true&hide_border=true" />
 
