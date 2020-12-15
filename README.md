@@ -8,8 +8,8 @@
 [<img align="left" alt="felix-fernando-wijaya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="felix_fernandoo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 ![](https://visitor-badge.glitch.me/badge?page_id=glgapr.glgapr)
-
 <br />
+
 ---
 <img align="left" alt="Volgizerz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=voltgizerz&show_icons=true&hide_border=true" />
 
