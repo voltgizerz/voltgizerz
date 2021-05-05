@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Everything 😂
-- ⚡ Fun fact: I love Logic, Machine Learning and Music Listening
+- 🌱 I’m currently learning Everything 😄
+- ⚡ Fun fact: I love Logic, Machine Learning and Music
 
 ### Connect with me 📫
 [<img align="left" alt="voltgizerz.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
