@@ -13,12 +13,12 @@
 ---
 ### ⚡ Technologies
 
-![Go](https://img.shields.io/badge/-go-blue?style=flat-square&logo=Go)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Go](https://img.shields.io/badge/-go-black?style=flat-square&logo=Go)
+![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![PHP](https://img.shields.io/badge/-Python-black?style=flat-square&logo=PHP)
-![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=Ruby)
+![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=Ruby)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
