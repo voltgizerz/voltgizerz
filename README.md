@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Everything 😄
-- ⚡ Fun fact: I love Logic, Machine Learning and Music
+I'm Felix, currently working as an Back-End Software Engineer now I mainly coded using Go, Ruby and Node.js. I love to create something useful and impactful
 
 ### Connect with me 📫
 [![Linkedin Badge](https://img.shields.io/badge/-Felix_Fernando_Wijaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felix-fernando-wijaya/)](https://www.linkedin.com/in/felix-fernando-wijaya/)
