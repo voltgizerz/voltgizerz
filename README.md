@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Felix, currently working as an Back-End Software Engineer 
+I'm Felix Fernando Wijaya, currently working as an Back-End Software Engineer 
 I mainly coded using Go, Ruby and Node.js and love to create something useful and impactful software.
 
 ### Connect with me 📫
