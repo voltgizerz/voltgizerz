@@ -3,10 +3,10 @@
 - ⚡ Fun fact: I love Logic, Machine Learning and Music
 
 ### Connect with me 📫
-[<img align="left" alt="voltgizerz.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="felix_fernand0 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="felix-fernando-wijaya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="felix_fernandoo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![Linkedin Badge](https://img.shields.io/badge/-felix-fernando-wijaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felix-fernando-wijaya/)](https://www.linkedin.com/in/felix-fernando-wijaya/)
+[![Instagram Badge](https://img.shields.io/badge/-felix_Fernandoo-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/felix_fernandoo/)](https://instagram.com/felix_fernandoo)
+[![Medium Badge](https://img.shields.io/badge/-@voltgizerz-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@voltgizerz/)](https://medium.com/@voltgizerz)
+[![Gmail Badge](https://img.shields.io/badge/-felix.fernandowi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felix.fernandowi@gmail.com)](mailto:kanna6501@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=glgapr.glgapr)
 <br />
 
