@@ -13,13 +13,15 @@
 ---
 ### ⚡ Technologies
 
-![Go](https://img.shields.io/badge/-go-black?style=flat-square&logo=Go)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
 ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
 ![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=Ruby)
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-black?style=flat-square&logo=ruby-on-rails)
+![Codeigniter](https://img.shields.io/badge/-Codeigniter-black?style=flat-square&logo=codeigniter)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
