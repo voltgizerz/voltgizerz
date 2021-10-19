@@ -19,7 +19,7 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
 ![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=Ruby)
-![Ruby on Rails](https://img.shields.io/badge/-Ruby-on-Rails-black?style=flat-square&logo=ruby-on-rails)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-black?style=flat-square&logo=ruby-on-rails)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
