@@ -1,5 +1,6 @@
 ### Hi there 👋
-I'm Felix, currently working as an Back-End Software Engineer now I mainly coded using Go, Ruby and Node.js. I love to create something useful and impactful
+I'm Felix, currently working as an Back-End Software Engineer 
+I mainly coded using Go, Ruby and Node.js and love to create something useful and impactful software.
 
 ### Connect with me 📫
 [![Linkedin Badge](https://img.shields.io/badge/-Felix_Fernando_Wijaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felix-fernando-wijaya/)](https://www.linkedin.com/in/felix-fernando-wijaya/)
