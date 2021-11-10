@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Felix Fernando Wijaya, currently working as a Back-End Software Engineer.
-I mainly coded using Go, Ruby and Node.js. Love to create something impactful and learn new stacks.
+I mainly coded using Go, Ruby and Node.js. Love to create something impactful and learn new stacks 😁.
 
 ### Connect with me 📫
 [![Linkedin Badge](https://img.shields.io/badge/-Felix_Fernando_Wijaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felix-fernando-wijaya/)](https://www.linkedin.com/in/felix-fernando-wijaya/)
