@@ -28,6 +28,7 @@ I mainly coded using Go. Love to fight with logic and learn new stacks 😁.
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
