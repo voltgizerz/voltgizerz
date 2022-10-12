@@ -12,18 +12,17 @@ I mainly coded using Go. Love to fight with logic and learn new stacks 😁.
 <br />
 
 ---
-### ⚡ Technologies
+### ⚡ Tech Stack
 
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
-![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
 ![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=Ruby)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
+![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-black?style=flat-square&logo=ruby-on-rails)
-![Codeigniter](https://img.shields.io/badge/-Codeigniter-black?style=flat-square&logo=codeigniter)
+![CodeIgniter](https://img.shields.io/badge/-Codeigniter-black?style=flat-square&logo=codeigniter)
 ![Laravel](https://img.shields.io/badge/-laravel-black?style=flat-square&logo=laravel)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
@@ -41,7 +40,7 @@ I mainly coded using Go. Love to fight with logic and learn new stacks 😁.
 <!-- <img align="left" alt="Volgizerz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=voltgizerz&show_icons=true&hide_border=true" /> -->
 <img align="left" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=voltgizerz&theme=dark" />
 
-[website]: https://voltgizerz.github.io/
+[website]: https://voltgizerz.works/
 [twitter]: https://twitter.com/felix_fernand0
 [instagram]: https://instagram.com/felix_fernandoo
 [linkedin]: https://www.linkedin.com/in/felix-fernando-wijaya/
