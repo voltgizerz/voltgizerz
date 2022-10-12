@@ -40,7 +40,6 @@ I mainly coded using Go. Love to fight with logic and learn new stacks 😁.
 ---
 <img align="left" alt="Volgizerz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=voltgizerz&show_icons=true&hide_border=true" />
 
----
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=voltgizerz&theme=dark)](https://git.io/streak-stats)
 
 [website]: https://voltgizerz.github.io/
