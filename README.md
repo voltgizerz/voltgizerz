@@ -38,7 +38,7 @@ Mainly coded using Go. Love to fight with logic and learn new stacks 😁.
 
 ---
 <!-- <img align="left" alt="Volgizerz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=voltgizerz&show_icons=true&hide_border=true" /> -->
-<img align="left" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=voltgizerz&theme=dark" />
+<img align="left" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=voltgizerz&theme=dark" />
 
 [website]: https://voltgizerz.works/
 [twitter]: https://twitter.com/felix_fernand0
