@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Felix Fernando Wijaya, currently working as a Back-End Software Engineer at [@tokopedia](https://www.tokopedia.com/).
+I'm Felix Fernando Wijaya, currently working as a Back-End Software Engineer at Tokopedia.
 Mainly coded using Go. Love to fight with logic and learn new stacks 😁.
 
 ### Connect with me 📫
