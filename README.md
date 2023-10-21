@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![@voltgizerz Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@voltgizerz)
+[![@voltgizerz Holopin board](https://holopin.io/api/user/board?user=voltgizerz)](https://holopin.io/@voltgizerz)
 I'm Felix Fernando Wijaya, currently working as a Back-End Software Engineer at Tokopedia.
 Mainly coded using Go. Love to fight with logic and learn new stacks 😁.
 
