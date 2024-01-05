@@ -27,6 +27,7 @@ Mainly coded using Go. Love to fight with logic and learn new stacks 😁.
 ![Laravel](https://img.shields.io/badge/-laravel-black?style=flat-square&logo=laravel)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
