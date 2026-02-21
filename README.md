@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!-- [![An image of @voltgizerz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/voltgizerz)](https://holopin.io/@voltgizerz) -->
-I'm Felix Fernando Wijaya, currently working as a Back-End Software Engineer at Tokopedia.
+I'm Felix Fernando Wijaya, currently working as a Back-End Software Engineer at ByteDance.
 Mainly coded using Go. Love to fight with logic and learn new stacks 😁.
 
 ### Connect with me 📫
