@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!-- [![An image of @voltgizerz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/voltgizerz)](https://holopin.io/@voltgizerz) -->
-debugging systems & life @bytedance
+debugging systems & life [@bytedance](https://www.bytedance.com/)
 
 ---
 
