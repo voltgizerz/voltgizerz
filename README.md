@@ -1,11 +1,12 @@
-### Hi there 👋
-<!-- [![An image of @voltgizerz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/voltgizerz)](https://holopin.io/@voltgizerz) -->
 debugging systems & life [@bytedance](https://www.bytedance.com/)
 
 ---
 
 Backend Engineer focused on scalable systems.
+
 Working with Go in distributed systems & microservices.
+
+---
 
 ### Connect with me 📫
 [![Linkedin Badge](https://img.shields.io/badge/-Felix_Fernando_Wijaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felix-fernando-wijaya/)](https://www.linkedin.com/in/felix-fernando-wijaya/)
