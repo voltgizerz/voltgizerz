@@ -9,7 +9,7 @@ Working with Go in distributed systems & microservices.
 ---
 
 ### Connect with me 📫
-[![Linkedin Badge](https://img.shields.io/badge/-Felix_Fernando_Wijaya-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/felix-fernando-wijaya/)](https://www.linkedin.com/in/felix-fernando-wijaya/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felix%20Fernando%20Wijaya-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felix-fernando-wijaya/)
 [![Codewars](https://img.shields.io/badge/-voltgizerz-gray?style=flat-square&logo=Codewars&logoColor=red&link=https://www.codewars.com/users/voltgizerz/)](https://www.codewars.com/users/voltgizerz/)
 [![Leetcode](https://img.shields.io/badge/-voltgizerz-gray?style=flat-square&logo=Leetcode&logoColor=#d16c06&link=https://leetcode.com/voltgizerz/)](https://leetcode.com/voltgizerz/)
 [![Medium Badge](https://img.shields.io/badge/-@voltgizerz-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@voltgizerz/)](https://medium.com/@voltgizerz)
