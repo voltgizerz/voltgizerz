@@ -1,7 +1,10 @@
 ### Hi there 👋
+Felix Fernando Wijaya
+debugging systems & life @bytedance
+
 <!-- [![An image of @voltgizerz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/voltgizerz)](https://holopin.io/@voltgizerz) -->
-I'm Felix Fernando Wijaya, currently working as a Back-End Software Engineer at ByteDance.
-Mainly coded using Go. Love to fight with logic and learn new stacks 😁.
+Backend Engineer focused on building scalable and reliable systems.
+Mainly working with Go in distributed systems & microservices.
 
 ### Connect with me 📫
 [![Linkedin Badge](https://img.shields.io/badge/-Felix_Fernando_Wijaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felix-fernando-wijaya/)](https://www.linkedin.com/in/felix-fernando-wijaya/)
@@ -42,7 +45,7 @@ Mainly coded using Go. Love to fight with logic and learn new stacks 😁.
 <!-- <img align="left" alt="Volgizerz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=voltgizerz&show_icons=true&hide_border=true" /> -->
 <img align="left" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=voltgizerz&theme=dark" />
 
-[website]: https://voltgizerz.works/
+[website]: https://voltgizerz.fun/
 [twitter]: https://twitter.com/felix_fernand0
 [instagram]: https://instagram.com/felix_fernandoo
 [linkedin]: https://www.linkedin.com/in/felix-fernando-wijaya/
