@@ -5,7 +5,6 @@ debugging systems & life @bytedance
 ---
 
 Backend Engineer focused on scalable systems.
-
 Working with Go in distributed systems & microservices.
 
 ### Connect with me 📫
