@@ -1,7 +1,3 @@
-debugging systems & life [@bytedance](https://www.bytedance.com/)
-
----
-
 Backend Engineer focused on scalable systems.
 
 Working with Go in distributed systems & microservices.
